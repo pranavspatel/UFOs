@@ -1,5 +1,5 @@
 // import the data from the data.js
-const tabledata = data;
+const tableData = data;
 
 // reference the html table using d3
 var tbody = d3.select("tbody");
