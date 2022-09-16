@@ -6,6 +6,10 @@ The aim is to create a webpage with a dynamic table that shows the results of th
 
 ## Results
 Previously, the webpage only had a date filter in which users neede to click on a button for the filter to be applied. Now we have updated the app with more filters. The webpage will then automatically update based on the filters applied. The first image illustrates the table without the filters. Upon input, the table will automatically filter the results accordingly.
+![](image1.png)
+
+![](image2.png)
+
 
 
 ## Summary of Analysis
